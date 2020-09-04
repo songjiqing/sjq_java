@@ -1,10 +1,1 @@
-server:
-  port: 8080
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/songjiqing/sjq_java.git
-          username: 1256478037@qq.com
-          password: sjq123456hqsjq123456hq
+profile: profile-default
